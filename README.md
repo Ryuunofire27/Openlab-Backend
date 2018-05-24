@@ -2,7 +2,7 @@
 
 ## Temas
 
-1. ¿Que es node? ¿Road to asynchronus programming?
+1. ¿Que es node? Road to asynchronus programming
 
 2. ES6 y NPM
 
